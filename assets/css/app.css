@@ -1,0 +1,27 @@
+.blog-box {
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 15px;
+	background-color: lavender;
+}
+
+.img-box {
+	height: 200px;
+	width: 200px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.searchbox {
+	background-color: white;
+	color: black;
+	position: absolute;
+	height: 200px;
+	overflow-y: scroll;
+	width: 17%;
+	border: 1px solid grey;
+	margin-left: 82%;
+	z-index: 1;
+	top: 14.5%;
+}
